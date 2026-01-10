@@ -1,5 +1,4 @@
-# FBCA-scRNAseq  
-### Single-Cell Cancer Metabolic Modeling Using Flux Balance Cellular Automata
+# Single-Cell Cancer Metabolic Modeling Using Flux Balance Cellular Automata
 
 ---
 
